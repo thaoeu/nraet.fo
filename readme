@@ -1,2 +1,1 @@
-config.json，会写入各算法算力进 "algo-perf"，同配置机器可以复用。同时如果算力有偏差，也支持手动修改
-xmrig-notls 加入了 -DWITH_TLS=OFF 选项，兼容性更好
+8BX2UWw1H31H4aKi3jpH9fP4MuttiUfQ6ECYQDPVycsTVLSM7DJZ76WUpDumLorpLYZUyFzGaoGEhCoj6GuCC8TC6WtS3Dm
